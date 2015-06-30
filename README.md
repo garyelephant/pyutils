@@ -1,6 +1,12 @@
 # pyutils
 Utils for python that I use, these utils does not include those in python standard library
 
+## Human Readable
+
+* https://github.com/jmoiron/humanize
+
+* https://humanfriendly.readthedocs.org/en/latest/
+
 ## ip manipulation
 
 * Google ipaddr
